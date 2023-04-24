@@ -1,0 +1,4 @@
+python-dotenv == 0.15.0
+python-telegram-bot == 20.2
+aiosqlite == 0.17.0
+qrcode == 7.4.2
